@@ -33,6 +33,7 @@ SeleniumStarterKit
 └── README.md
 
 
+
 Pages: Contains Page Object classes. Each class represents a page or component of the web application.
 
 Tests: Holds test classes, each often corresponding to a single feature or page being tested.
