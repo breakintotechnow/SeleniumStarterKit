@@ -20,15 +20,25 @@ Project Structure
 SeleniumStarterKit
 ├── SeleniumStarterKit.sln
 ├── SeleniumStarterKit
-│   ├── Pages
-│   │   ├── BasePage.cs
-│   │   └── HomePage.cs
+
+├
+── Pages
+│  
+│   ├── BasePage.cs
+│   │  
+└── VariablePage.cs
 │   ├── Tests
-│   │   └── TestClass.cs
-│   ├── Utilities
-│   │   ├── DriverPage.cs
-│   │   └── WaitUtilities.cs
-│   └── ...
+│   │   
+└── ExampleTest.cs
+│   
+├── Utilities
+│   
+│   
+├── DriverPage.cs
+│   
+│   └── WaitUtilities.cs
+│  
+└── ...
 ├── .gitignore
 └── README.md
 
